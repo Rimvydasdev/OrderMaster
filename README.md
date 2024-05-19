@@ -35,8 +35,7 @@ This is a MetaTrader 5 (MT5) script that allows you to control your orders like 
 - Use the "Add TP" button to add Take Profit level to open positions.
 
 ## Video Tutorial
-
-(https://github.com/Rimvydasdev/OrderMaster/assets/119669569/3a8e41ae-2af6-4f7e-abaf-dd15d0005899)
+[Watch a video tutorial on how to install and use the OrderMaster script](https://github.com/Rimvydasdev/OrderMaster/assets/119669569/3a8e41ae-2af6-4f7e-abaf-dd15d0005899)
 
 ## Disclaimer
 
